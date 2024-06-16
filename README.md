@@ -13,7 +13,7 @@ Love Backend, Love Technology。One Year Of Development Experience。Like To Par
  <img align="right" alt="GIF" src="./images/DW.gif" width="200" height="100%" />
 
 
--   <a href="https://www.instagram.com/guanhauhuang/"><code><img height="22" width="20" src="./images/ig.jpg"></code></a>：Instagram
+-   <a href="https://www.instagram.com/guanhauhuang/"><code><img height="20" width="20" src="./images/ig.jpg"></code></a>：Instagram
 
 ### **Programming Languages And Tools:**
 
