@@ -36,7 +36,7 @@ Love Backend, Love Technology。One Year Of Development Experience。Like To Par
 
 ### Project
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=iiJ4ffRhau&repo=mp4To4K-rust)](https://github.com/iiJ4ffRhau/mp4To4K-rust)
+[!](https://github-readme-stats.vercel.app/api/pin/?username=iiJ4ffRhau&repo=mp4To4K-rust)](https://github.com/iiJ4ffRhau/mp4To4K-rust)
 <br><br><br>
 
 ### Github activity
